@@ -1,0 +1,24 @@
+.card{
+    width: auto;
+}
+
+.name{
+    font-size: 1rem;
+}
+
+.text{
+    max-width: 300px;
+    font-weight: bold;
+}
+
+.image{
+    width: 250px;
+}
+
+.price{
+    font-size: 1.32rem;
+}
+
+
+
+  
